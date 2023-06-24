@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+   background-image: url('background.jpg ');
+   background-size: cover;
+   background-position: center;
+   background-color:"red";
+
+
+    
+}
+.mine{
+    background-color: white;
+    background-size: cover;
+}
+.images{
+    width: 400px;
+    margin: 20px;
+}
+.pg{
+    color: white;
+}
